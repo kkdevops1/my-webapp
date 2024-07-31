@@ -5,7 +5,7 @@
                              http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
     
-<!--    <servlet>
+    <servlet>
         <servlet-name>HelloServlet</servlet-name>
         <servlet-class>com.mycompany.webapp.HelloServlet</servlet-class>
     </servlet>
@@ -21,7 +21,7 @@
     <servlet-mapping>
         <servlet-name>AnotherServlet</servlet-name>
         <url-pattern>/anotherHello</url-pattern>
-</servlet-mapping> -->
+    </servlet-mapping>
 
 </web-app>
 
