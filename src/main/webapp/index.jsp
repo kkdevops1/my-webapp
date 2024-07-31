@@ -34,7 +34,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Web App!</h1>
+    <h1>Welcome to KRANTHI DEVOPS TRAINING </h1>
     <div class="content">
         <h2>About This App</h2>
         <p>This application demonstrates a simple Java web application deployed on Tomcat. The styling uses a black background and red text to create a distinctive look.</p>
